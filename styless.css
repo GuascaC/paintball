@@ -1,0 +1,30 @@
+.rounded-image {
+    border-radius: 10px; 
+    transition: transform 0.3s;
+}
+body {
+    background-image: url('./paintball-5407710_1280.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn-primary {
+    background-color: white;
+    color: #000000;
+    border-color: #000000;
+    font-size: 14px; 
+}
+.enlarged-image {
+    transform: scale(1.5); 
+}
+p {
+    font-size: 14px; 
+}
+.btn {
+font-size: 24px; 
+padding: 20px 40px; 
+}
+.btn-primary:hover{
+background-color: black;
+border-color: #000000;
+color: white; 
+}
